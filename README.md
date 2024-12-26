@@ -40,7 +40,7 @@ Swagger UI
 
 Running the app
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/mayurvarshney2/E-Commerce-Website-with-Admin-Panel/tree/main/E-Commerce-Application-main/E-Commerce-Application-main/ECommerceApplication
 Import the project into STS:
 Click File > Import...
 Select Maven > Existing Maven Projects and click Next
